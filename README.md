@@ -180,6 +180,3 @@ This project helped strengthen my understanding of:
 
 ---
 
-
-
-## ⭐ If you found this project useful, consider giving it a Star!
